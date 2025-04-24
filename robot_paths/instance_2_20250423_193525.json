@@ -1,0 +1,62 @@
+{
+  "1": [
+    {
+      "time": 0,
+      "action": "move(-1"
+    },
+    {
+      "time": 0,
+      "action": "move(-1"
+    },
+    {
+      "time": 0,
+      "action": "move(-1"
+    },
+    {
+      "time": 0,
+      "action": "move(1"
+    },
+    {
+      "time": 0,
+      "action": "move(-1"
+    },
+    {
+      "time": 2,
+      "action": "pickup"
+    }
+  ],
+  "2": [
+    {
+      "time": 0,
+      "action": "move(1"
+    },
+    {
+      "time": 0,
+      "action": "move(-1"
+    },
+    {
+      "time": 0,
+      "action": "move(-1"
+    },
+    {
+      "time": 0,
+      "action": "pickup"
+    },
+    {
+      "time": 1,
+      "action": "move(0"
+    },
+    {
+      "time": 1,
+      "action": "move(0"
+    },
+    {
+      "time": 4,
+      "action": "putdown"
+    },
+    {
+      "time": 6,
+      "action": "pickup"
+    }
+  ]
+}

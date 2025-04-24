@@ -1,0 +1,46 @@
+{
+  "1": [
+    {
+      "time": 0,
+      "action": "move(-1"
+    },
+    {
+      "time": 0,
+      "action": "move(-1"
+    },
+    {
+      "time": 0,
+      "action": "move(1"
+    },
+    {
+      "time": 1,
+      "action": "move(0"
+    },
+    {
+      "time": 4,
+      "action": "pickup"
+    }
+  ],
+  "2": [
+    {
+      "time": 0,
+      "action": "move(1"
+    },
+    {
+      "time": 0,
+      "action": "move(1"
+    },
+    {
+      "time": 0,
+      "action": "move(-1"
+    },
+    {
+      "time": 1,
+      "action": "move(0"
+    },
+    {
+      "time": 3,
+      "action": "pickup"
+    }
+  ]
+}

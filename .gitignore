@@ -33,14 +33,3 @@ env/
 *.swo
 .DS_Store
 
-# Project specific
-robot_paths/
-*.log
-*.json
-
-# Clingo
-*.lp
-*.asp
-*.clasp
-*.gringo
-*.clingo 
